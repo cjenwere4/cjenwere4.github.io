@@ -1,0 +1,17 @@
+check to see if item is in set
+random = 'hello'
+print (random in rand_set)
+add to set
+.add
+
+dict has a constructor
+
+Ex:
+dict(3 = "helo", 4 = "kkd")
+
+NOTE: lambda can have multiple arguments
+NOTE: else if in python is elif
+NOTE: ! in Python is not
+NOTE: == in Python compares values of data structures, is compares memory adddress of data structures. For values, == and is compare values
+Example of format string: print(f'Current {x}'). NOTE: NO space between f and '
+NOTE: To skip and element in a loop in Python use the keyword continue
